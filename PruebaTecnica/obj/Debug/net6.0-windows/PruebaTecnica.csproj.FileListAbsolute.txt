@@ -1,0 +1,16 @@
+D:\C#\PruebaTecnica\PruebaTecnica\bin\Debug\net6.0-windows\PruebaTecnica.exe
+D:\C#\PruebaTecnica\PruebaTecnica\bin\Debug\net6.0-windows\PruebaTecnica.deps.json
+D:\C#\PruebaTecnica\PruebaTecnica\bin\Debug\net6.0-windows\PruebaTecnica.runtimeconfig.json
+D:\C#\PruebaTecnica\PruebaTecnica\bin\Debug\net6.0-windows\PruebaTecnica.dll
+D:\C#\PruebaTecnica\PruebaTecnica\bin\Debug\net6.0-windows\PruebaTecnica.pdb
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.Form1.resources
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.csproj.GenerateResource.cache
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.AssemblyInfoInputs.cache
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.AssemblyInfo.cs
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.csproj.CoreCompileInputs.cache
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.dll
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\refint\PruebaTecnica.dll
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.pdb
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\PruebaTecnica.genruntimeconfig.cache
+D:\C#\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0-windows\ref\PruebaTecnica.dll
